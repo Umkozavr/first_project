@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98240a8e-f650-4744-9433-38bb024e5d56" name="Changes" comment="Decorators + list comprehensions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98240a8e-f650-4744-9433-38bb024e5d56" name="Changes" comment="API requests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
     "Python.15_07.executor": "Run",
     "Python.16.07.executor": "Run",
     "Python.16_07_2.executor": "Run",
+    "Python.api_requests.executor": "Run",
     "Python.csv_files.executor": "Run",
     "Python.database.executor": "Run",
     "Python.dates.executor": "Run",
@@ -60,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "21__07",
+    "git-widget-placeholder": "22__07",
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
@@ -172,11 +171,20 @@
       <option name="project" value="LOCAL" />
       <updated>1752591516870</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="API requests">
+      <option name="closed" value="true" />
+      <created>1753186711325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753186711325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Decorators + list comprehensions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators + list comprehensions" />
+    <MESSAGE value="API requests" />
+    <option name="LAST_COMMIT_MESSAGE" value="API requests" />
   </component>
 </project>
