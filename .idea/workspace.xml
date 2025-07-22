@@ -48,6 +48,7 @@
     "Python.15_07.executor": "Run",
     "Python.16.07.executor": "Run",
     "Python.16_07_2.executor": "Run",
+    "Python.api_requests.executor": "Run",
     "Python.csv_files.executor": "Run",
     "Python.database.executor": "Run",
     "Python.dates.executor": "Run",
@@ -60,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "21__07",
+    "git-widget-placeholder": "22__07",
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
