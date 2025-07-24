@@ -1,5 +1,8 @@
 import unittest
 import requests
+import sys
+
+
 
 class TestPostApi(unittest.TestCase):
 
@@ -30,6 +33,7 @@ class TestPostApi(unittest.TestCase):
 
 class TestIndependent(unittest.TestCase):
 
+    @unittest.skipIf(sys.platform == "win32", "Not for Windows")
     def test_get_all_posts(self):
         response = requests.get("https://jsonplaceholder.typicode.com/posts").json()
         self.assertEqual(len(response), 100)
