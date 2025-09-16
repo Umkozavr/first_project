@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98240a8e-f650-4744-9433-38bb024e5d56" name="Changes" comment="API requests">
+      <change beforePath="$PROJECT_DIR$/.idea/first_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/first_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23_07/11test_unittest_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_07/11test_unittest_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23_07/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_07/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_24_08/24_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/a24_08/24_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_24_08/locustfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/a24_08/locustfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -47,11 +49,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for .executor": "Run",
     "Python tests.Python tests for unittest_examples.PostApi.executor": "Run",
+    "Python tests.pytest for test_08_09.test_classname.executor": "Run",
+    "Python tests.pytest for test_08_09.test_css_selector.executor": "Run",
+    "Python tests.pytest for test_08_09.test_id_name.executor": "Run",
+    "Python tests.pytest for test_08_09.test_link.executor": "Run",
+    "Python tests.pytest for test_08_09.test_tagname.executor": "Run",
+    "Python tests.pytest for test_08_09.test_xpath.executor": "Run",
+    "Python tests.pytest for test_16_09.test_5_sec_vis.executor": "Run",
+    "Python tests.pytest for test_16_09.test_cart.executor": "Run",
+    "Python tests.pytest for test_16_09.test_enabled_and_select.executor": "Run",
+    "Python tests.pytest for test_16_09.test_input_clear.executor": "Run",
+    "Python tests.pytest for test_16_09.test_powered_by.executor": "Run",
+    "Python tests.pytest for test_16_09.test_same_elements.executor": "Run",
+    "Python tests.pytest for test_16_09.test_waiting.executor": "Run",
+    "Python tests.pytest in 08.09.py.executor": "Run",
+    "Python.08.09.executor": "Run",
     "Python.15_07.executor": "Run",
     "Python.16.07.executor": "Run",
     "Python.16_07_2.executor": "Run",
     "Python.24_08.executor": "Run",
+    "Python.31_08.executor": "Run",
     "Python.api_requests.executor": "Run",
     "Python.csv_files.executor": "Run",
     "Python.database.executor": "Run",
@@ -65,9 +84,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "31__08",
     "last_opened_file_path": "D:/Python projects/first_project",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,7 +98,7 @@
       <recent name="D:\Python projects\first_project\23_07\test_dir1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test_16_09.test_same_elements">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,24 +166,105 @@
       <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for unittest_examples.PostApi" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_16_09.test_5_sec_vis" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23_07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a31_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;unittest_examples.PostApi&quot;" />
+      <option name="_new_target" value="&quot;test_16_09.test_5_sec_vis&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_16_09.test_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a31_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_16_09.test_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_16_09.test_powered_by" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a31_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_16_09.test_powered_by&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_16_09.test_same_elements" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a31_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_16_09.test_same_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_16_09.test_waiting" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a31_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_16_09.test_waiting&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_16_09.test_5_sec_vis" />
+      <item itemvalue="Python tests.pytest for test_16_09.test_cart" />
+      <item itemvalue="Python tests.pytest for test_16_09.test_powered_by" />
+      <item itemvalue="Python tests.pytest for test_16_09.test_same_elements" />
+      <item itemvalue="Python tests.pytest for test_16_09.test_waiting" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for unittest_examples.PostApi" />
+        <item itemvalue="Python tests.pytest for test_16_09.test_same_elements" />
+        <item itemvalue="Python tests.pytest for test_16_09.test_5_sec_vis" />
+        <item itemvalue="Python tests.pytest for test_16_09.test_cart" />
+        <item itemvalue="Python tests.pytest for test_16_09.test_waiting" />
+        <item itemvalue="Python tests.pytest for test_16_09.test_powered_by" />
       </list>
     </recent_temporary>
   </component>
