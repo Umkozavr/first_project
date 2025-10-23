@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98240a8e-f650-4744-9433-38bb024e5d56" name="Changes" comment="Advanced Selenium" />
+    <list default="true" id="98240a8e-f650-4744-9433-38bb024e5d56" name="Changes" comment="Advanced Selenium">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +67,28 @@
     "Python tests.pytest for test_22_09.test_new_tab.executor": "Run",
     "Python tests.pytest for test_22_09.test_open_in_new_tab.executor": "Run",
     "Python tests.pytest for test_22_09.test_stale_exception.executor": "Run",
+    "Python tests.pytest for test_30_09.test_scroll.executor": "Run",
+    "Python tests.pytest for test_30_09.test_scroll_to_element.executor": "Run",
+    "Python tests.pytest for test_30_09.test_upload.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_alt_text.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_label.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_placeholder.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_test_id.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_text.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_title.executor": "Run",
+    "Python tests.pytest for test_demo.test_by_xpath.executor": "Run",
+    "Python tests.pytest for test_demo.test_link.executor": "Run",
+    "Python tests.pytest for test_demo.test_locator.executor": "Run",
+    "Python tests.pytest for test_demo.test_one.executor": "Run",
+    "Python tests.pytest for test_play2.test_alerts.executor": "Run",
+    "Python tests.pytest for test_play2.test_drag_and_drop.executor": "Run",
+    "Python tests.pytest for test_play2.test_enabled_and_select.executor": "Run",
+    "Python tests.pytest for test_play2.test_focused.executor": "Run",
+    "Python tests.pytest for test_play2.test_hover.executor": "Run",
+    "Python tests.pytest for test_play2.test_new_tab.executor": "Run",
+    "Python tests.pytest for test_play2.test_sort_and_wait.executor": "Run",
+    "Python tests.pytest for test_play2.test_value.executor": "Run",
+    "Python tests.pytest for test_play2.test_visible.executor": "Run",
     "Python tests.pytest in 08.09.py.executor": "Run",
     "Python.08.09.executor": "Run",
     "Python.15_07.executor": "Run",
@@ -85,7 +109,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "22__09",
+    "git-widget-placeholder": "30__09",
     "last_opened_file_path": "D:/Python projects/first_project",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
@@ -99,7 +123,7 @@
       <recent name="D:\Python projects\first_project\23_07\test_dir1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_22_09.test_alert">
+  <component name="RunManager" selected="Python tests.pytest for test_play2.test_alerts">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,105 +191,411 @@
       <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_22_09.test_alert" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_30_09.test_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b22_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_22_09.test_alert&quot;" />
+      <option name="_new_target" value="&quot;test_30_09.test_scroll&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_22_09.test_d_n_d" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_30_09.test_scroll_to_element" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b22_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_22_09.test_d_n_d&quot;" />
+      <option name="_new_target" value="&quot;test_30_09.test_scroll_to_element&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_22_09.test_drop_menu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_30_09.test_upload" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b22_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_22_09.test_drop_menu&quot;" />
+      <option name="_new_target" value="&quot;test_30_09.test_upload&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_22_09.test_iframe" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_demo.test_by_alt_text" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b22_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_22_09.test_iframe&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_alt_text&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_22_09.test_open_in_new_tab" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_demo.test_by_label" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b22_09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_22_09.test_open_in_new_tab&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_label&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_by_placeholder" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_placeholder&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_by_test_id" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_test_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_by_text" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_text&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_by_title" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_by_xpath" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_by_xpath&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_link" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_link&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_locator" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_locator&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.test_one" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_demo.test_one&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_alerts" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_alerts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_drag_and_drop" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_drag_and_drop&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_enabled_and_select" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_enabled_and_select&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_focused" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_focused&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_hover" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_hover&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_new_tab" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_new_tab&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_sort_and_wait" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_sort_and_wait&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_value" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_value&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_play2.test_visible" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_play2.test_visible&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for test_22_09.test_alert" />
-      <item itemvalue="Python tests.pytest for test_22_09.test_d_n_d" />
-      <item itemvalue="Python tests.pytest for test_22_09.test_open_in_new_tab" />
-      <item itemvalue="Python tests.pytest for test_22_09.test_drop_menu" />
-      <item itemvalue="Python tests.pytest for test_22_09.test_iframe" />
+      <item itemvalue="Python tests.pytest for test_play2.test_alerts" />
+      <item itemvalue="Python tests.pytest for test_play2.test_drag_and_drop" />
+      <item itemvalue="Python tests.pytest for test_play2.test_hover" />
+      <item itemvalue="Python tests.pytest for test_play2.test_new_tab" />
+      <item itemvalue="Python tests.pytest for test_play2.test_focused" />
+      <item itemvalue="Python tests.pytest for test_play2.test_enabled_and_select" />
+      <item itemvalue="Python tests.pytest for test_play2.test_value" />
+      <item itemvalue="Python tests.pytest for test_play2.test_visible" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_xpath" />
+      <item itemvalue="Python tests.pytest for test_demo.test_locator" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_alt_text" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_label" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_placeholder" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_test_id" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_text" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_title" />
+      <item itemvalue="Python tests.pytest for test_demo.test_link" />
+      <item itemvalue="Python tests.pytest for test_play2.test_sort_and_wait" />
+      <item itemvalue="Python tests.pytest for test_30_09.test_scroll" />
+      <item itemvalue="Python tests.pytest for test_30_09.test_scroll_to_element" />
+      <item itemvalue="Python tests.pytest for test_30_09.test_upload" />
+      <item itemvalue="Python tests.pytest for test_demo.test_one" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_22_09.test_alert" />
-        <item itemvalue="Python tests.pytest for test_22_09.test_open_in_new_tab" />
-        <item itemvalue="Python tests.pytest for test_22_09.test_d_n_d" />
-        <item itemvalue="Python tests.pytest for test_22_09.test_drop_menu" />
-        <item itemvalue="Python tests.pytest for test_22_09.test_iframe" />
+        <item itemvalue="Python tests.pytest for test_play2.test_sort_and_wait" />
+        <item itemvalue="Python tests.pytest for test_demo.test_one" />
+        <item itemvalue="Python tests.pytest for test_30_09.test_upload" />
+        <item itemvalue="Python tests.pytest for test_30_09.test_scroll_to_element" />
+        <item itemvalue="Python tests.pytest for test_30_09.test_scroll" />
       </list>
     </recent_temporary>
   </component>
