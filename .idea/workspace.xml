@@ -42,78 +42,83 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for .executor": "Run",
-    "Python tests.Python tests for unittest_examples.PostApi.executor": "Run",
-    "Python tests.pytest for test_08_09.test_classname.executor": "Run",
-    "Python tests.pytest for test_08_09.test_css_selector.executor": "Run",
-    "Python tests.pytest for test_08_09.test_id_name.executor": "Run",
-    "Python tests.pytest for test_08_09.test_link.executor": "Run",
-    "Python tests.pytest for test_08_09.test_tagname.executor": "Run",
-    "Python tests.pytest for test_08_09.test_xpath.executor": "Run",
-    "Python tests.pytest for test_16_09.test_5_sec_vis.executor": "Run",
-    "Python tests.pytest for test_16_09.test_cart.executor": "Run",
-    "Python tests.pytest for test_16_09.test_enabled_and_select.executor": "Run",
-    "Python tests.pytest for test_16_09.test_input_clear.executor": "Run",
-    "Python tests.pytest for test_16_09.test_powered_by.executor": "Run",
-    "Python tests.pytest for test_16_09.test_same_elements.executor": "Run",
-    "Python tests.pytest for test_16_09.test_waiting.executor": "Run",
-    "Python tests.pytest for test_22_09.test_alert.executor": "Run",
-    "Python tests.pytest for test_22_09.test_d_n_d.executor": "Run",
-    "Python tests.pytest for test_22_09.test_drop_menu.executor": "Run",
-    "Python tests.pytest for test_22_09.test_iframe.executor": "Run",
-    "Python tests.pytest for test_22_09.test_new_tab.executor": "Run",
-    "Python tests.pytest for test_22_09.test_open_in_new_tab.executor": "Run",
-    "Python tests.pytest for test_22_09.test_stale_exception.executor": "Run",
-    "Python tests.pytest for test_30_09.test_scroll.executor": "Run",
-    "Python tests.pytest for test_30_09.test_scroll_to_element.executor": "Run",
-    "Python tests.pytest for test_30_09.test_upload.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_alt_text.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_label.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_placeholder.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_test_id.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_text.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_title.executor": "Run",
-    "Python tests.pytest for test_demo.test_by_xpath.executor": "Run",
-    "Python tests.pytest for test_demo.test_link.executor": "Run",
-    "Python tests.pytest for test_demo.test_locator.executor": "Run",
-    "Python tests.pytest for test_demo.test_one.executor": "Run",
-    "Python tests.pytest for test_play2.test_alerts.executor": "Run",
-    "Python tests.pytest for test_play2.test_drag_and_drop.executor": "Run",
-    "Python tests.pytest for test_play2.test_enabled_and_select.executor": "Run",
-    "Python tests.pytest for test_play2.test_focused.executor": "Run",
-    "Python tests.pytest for test_play2.test_hover.executor": "Run",
-    "Python tests.pytest for test_play2.test_new_tab.executor": "Run",
-    "Python tests.pytest for test_play2.test_sort_and_wait.executor": "Run",
-    "Python tests.pytest for test_play2.test_value.executor": "Run",
-    "Python tests.pytest for test_play2.test_visible.executor": "Run",
-    "Python tests.pytest in 08.09.py.executor": "Run",
-    "Python.08.09.executor": "Run",
-    "Python.15_07.executor": "Run",
-    "Python.16.07.executor": "Run",
-    "Python.16_07_2.executor": "Run",
-    "Python.24_08.executor": "Run",
-    "Python.31_08.executor": "Run",
-    "Python.api_requests.executor": "Run",
-    "Python.csv_files.executor": "Run",
-    "Python.database.executor": "Run",
-    "Python.dates.executor": "Run",
-    "Python.def_dict.executor": "Run",
-    "Python.errors.executor": "Run",
-    "Python.fake_me.executor": "Run",
-    "Python.new stuff.executor": "Run",
-    "Python.secrets.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "30__09",
-    "last_opened_file_path": "D:/Python projects/first_project",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for .executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for unittest_examples.PostApi.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_08_09.test_classname.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_08_09.test_css_selector.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_08_09.test_id_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_08_09.test_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_08_09.test_tagname.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_08_09.test_xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_5_sec_vis.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_cart.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_enabled_and_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_input_clear.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_powered_by.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_same_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_16_09.test_waiting.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_alert.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_d_n_d.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_drop_menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_iframe.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_new_tab.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_open_in_new_tab.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_22_09.test_stale_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_30_09.test_scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_30_09.test_scroll_to_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_30_09.test_upload.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_alt_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_label.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_placeholder.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_test_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_by_xpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_locator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_demo.test_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_alerts.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_drag_and_drop.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_enabled_and_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_focused.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_hover.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_new_tab.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_sort_and_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_play2.test_visible.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pw_network.test_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pw_network.test_catch_response.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pw_network.test_change_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pw_network.test_listen.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pw_network.test_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in 08.09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_07_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_requests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.def_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.errors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_me.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new stuff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.secrets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;27__10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python projects/first_project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python projects\first_project\23_07\allure-results" />
@@ -123,7 +128,7 @@
       <recent name="D:\Python projects\first_project\23_07\test_dir1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_play2.test_alerts">
+  <component name="RunManager" selected="Python tests.pytest for test_pw_network.test_catch_response">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,55 +196,38 @@
       <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_30_09.test_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13 (first_project)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_30_09.test_scroll&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_30_09.test_scroll_to_element" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="tests" factoryName="py.test">
       <module name="first_project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13 (first_project)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_30_09.test_scroll_to_element&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_30_09.test_upload" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="first_project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/b30_09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_30_09.test_upload&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest for test_demo.test_by_alt_text" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -565,37 +553,127 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_pw_network.test_API" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (first_project)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/с27_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_pw_network.test_API&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_pw_network.test_catch_response" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/с27_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_pw_network.test_catch_response&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_pw_network.test_change_request" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (first_project)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/с27_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_pw_network.test_change_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_pw_network.test_listen" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/с27_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_pw_network.test_listen&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_pw_network.test_weather" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (first_project)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/с27_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;test_pw_network.test_weather&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for test_play2.test_alerts" />
-      <item itemvalue="Python tests.pytest for test_play2.test_drag_and_drop" />
-      <item itemvalue="Python tests.pytest for test_play2.test_hover" />
-      <item itemvalue="Python tests.pytest for test_play2.test_new_tab" />
-      <item itemvalue="Python tests.pytest for test_play2.test_focused" />
-      <item itemvalue="Python tests.pytest for test_play2.test_enabled_and_select" />
-      <item itemvalue="Python tests.pytest for test_play2.test_value" />
-      <item itemvalue="Python tests.pytest for test_play2.test_visible" />
-      <item itemvalue="Python tests.pytest for test_demo.test_by_xpath" />
-      <item itemvalue="Python tests.pytest for test_demo.test_locator" />
       <item itemvalue="Python tests.pytest for test_demo.test_by_alt_text" />
       <item itemvalue="Python tests.pytest for test_demo.test_by_label" />
       <item itemvalue="Python tests.pytest for test_demo.test_by_placeholder" />
       <item itemvalue="Python tests.pytest for test_demo.test_by_test_id" />
       <item itemvalue="Python tests.pytest for test_demo.test_by_text" />
       <item itemvalue="Python tests.pytest for test_demo.test_by_title" />
+      <item itemvalue="Python tests.pytest for test_demo.test_by_xpath" />
       <item itemvalue="Python tests.pytest for test_demo.test_link" />
-      <item itemvalue="Python tests.pytest for test_play2.test_sort_and_wait" />
-      <item itemvalue="Python tests.pytest for test_30_09.test_scroll" />
-      <item itemvalue="Python tests.pytest for test_30_09.test_scroll_to_element" />
-      <item itemvalue="Python tests.pytest for test_30_09.test_upload" />
+      <item itemvalue="Python tests.pytest for test_demo.test_locator" />
+      <item itemvalue="Python tests.pytest for test_play2.test_alerts" />
+      <item itemvalue="Python tests.pytest for test_play2.test_drag_and_drop" />
+      <item itemvalue="Python tests.pytest for test_play2.test_enabled_and_select" />
+      <item itemvalue="Python tests.pytest for test_play2.test_focused" />
+      <item itemvalue="Python tests.pytest for test_play2.test_hover" />
+      <item itemvalue="Python tests.pytest for test_play2.test_new_tab" />
+      <item itemvalue="Python tests.pytest for test_play2.test_value" />
+      <item itemvalue="Python tests.pytest for test_play2.test_visible" />
+      <item itemvalue="Python tests.pytest for test_pw_network.test_catch_response" />
+      <item itemvalue="Python tests.pytest for test_pw_network.test_listen" />
+      <item itemvalue="Python tests.pytest for test_pw_network.test_API" />
+      <item itemvalue="Python tests.pytest for test_pw_network.test_change_request" />
       <item itemvalue="Python tests.pytest for test_demo.test_one" />
+      <item itemvalue="Python tests.pytest for test_play2.test_sort_and_wait" />
+      <item itemvalue="Python tests.pytest for test_pw_network.test_weather" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_pw_network.test_API" />
+        <item itemvalue="Python tests.pytest for test_pw_network.test_change_request" />
+        <item itemvalue="Python tests.pytest for test_pw_network.test_weather" />
         <item itemvalue="Python tests.pytest for test_play2.test_sort_and_wait" />
         <item itemvalue="Python tests.pytest for test_demo.test_one" />
-        <item itemvalue="Python tests.pytest for test_30_09.test_upload" />
-        <item itemvalue="Python tests.pytest for test_30_09.test_scroll_to_element" />
-        <item itemvalue="Python tests.pytest for test_30_09.test_scroll" />
       </list>
     </recent_temporary>
   </component>
